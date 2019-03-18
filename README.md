@@ -38,3 +38,8 @@ This repository contains the
 - It groups the customers on the basis of their previous purchase transactions. How recently, how often, and how much did a customer buy. 
 - RFM filters customers into various groups for the purpose of better service. 
 - It helps managers to identify potential customers to do more profitable business.
+
+### 08 Generative Adversarial Networks (GANs)
+- Implemented GANs on CIFAR10 dataset in python using PyTorch 
+- Defined Generator and Discriminator module of a neural network containing a sequence of modules (convolutions, full connections, etc.) 
+- Used Adam optimizer for Generator as well as Discriminator
