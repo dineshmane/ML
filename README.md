@@ -43,3 +43,7 @@ This repository contains the
 - Implemented GANs on CIFAR10 dataset in python using PyTorch 
 - Defined Generator and Discriminator module of a neural network containing a sequence of modules (convolutions, full connections, etc.) 
 - Used Adam optimizer for Generator as well as Discriminator
+
+### 09 TensorFlow Getting Started Pluralsight
+- Built simple regression model and advanced deep neural network models in TensorFlow, and utilized additional libraries like Keras, TFLearn that make development even easier. 
+- Explored TensorFlow with neural networks in general, and specifically with powerful deep neural networks. 
