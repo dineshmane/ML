@@ -55,3 +55,7 @@ This repository contains the
 2. Cleaning, transforming, analyize, and preparing the dataset
 3. Create and train our model (XGBoost))
 4. Create and train our model (Linear Learner))
+
+### 11 Lego Classifier Neural Net:AcloudGuru
+- We also have a collection of 600 photos of various LEGO bricks from different angles. And all the images are stored into data arrays for easier loading into the notebook. These are stored in the lego-simple-train-images.npy and lego-simple-test-images.npy files
+- Created a simple, deep learning, neural network classifier model. Trained the model using the photo data and cross-checked if it correctly predicts the type of a brick from a supplied test image.
