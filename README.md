@@ -47,3 +47,11 @@ This repository contains the
 ### 09 TensorFlow Getting Started Pluralsight
 - Built simple regression model and advanced deep neural network models in TensorFlow, and utilized additional libraries like Keras, TFLearn that make development even easier. 
 - Explored TensorFlow with neural networks in general, and specifically with powerful deep neural networks. 
+
+### 10 UFO Sightings ALgorithm Sagemaker:AcloudGuru
+- The goal of this notebook is to build out models to use for predicting the legitimacy of a UFO sighting using the Sagemaker's built-in XGBoost and Linear Learner algorithm.
+- What we plan on accompishling is the following:
+1. Load dataset onto Notebook instance memory from S3
+2. Cleaning, transforming, analyize, and preparing the dataset
+3. Create and train our model (XGBoost))
+4. Create and train our model (Linear Learner))
