@@ -49,12 +49,9 @@ This repository contains the
 - Explored TensorFlow with neural networks in general, and specifically with powerful deep neural networks. 
 
 ### 10 UFO Sightings ALgorithm Sagemaker:AcloudGuru
-- The goal of this notebook is to build out models to use for predicting the legitimacy of a UFO sighting using the Sagemaker's built-in XGBoost and Linear Learner algorithm.
-- What we plan on accompishling is the following:
-1. Load dataset onto Notebook instance memory from S3
-2. Cleaning, transforming, analyize, and preparing the dataset
-3. Create and train our model (XGBoost))
-4. Create and train our model (Linear Learner))
+- The goal of this notebook is to build out models to use for predicting the legitimacy of a UFO sighting using the Sagemaker's built-in Linear Learner algorithm.
+- We loaded dataset onto Notebook instance memory from S3, pre-processed the dataset, create-train-deployed the model in Sagemaker
+- Created Lambda function and called invokeEndpoint() method for real time predications/inferences.
 
 ### 11 Lego Classifier Neural Net:AcloudGuru
 - We also have a collection of 600 photos of various LEGO bricks from different angles. And all the images are stored into data arrays for easier loading into the notebook. These are stored in the lego-simple-train-images.npy and lego-simple-test-images.npy files
