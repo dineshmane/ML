@@ -48,7 +48,7 @@ This repository contains the
 - Built simple regression model and advanced deep neural network models in TensorFlow, and utilized additional libraries like Keras, TFLearn that make development even easier. 
 - Explored TensorFlow with neural networks in general, and specifically with powerful deep neural networks. 
 
-### 10 UFO Sightings ALgorithm Sagemaker:AcloudGuru
+### 10 UFO Sightings Algorithm Sagemaker Deployment:AcloudGuru
 - The goal of this notebook is to build out models to use for predicting the legitimacy of a UFO sighting using the Sagemaker's built-in Linear Learner algorithm.
 - We loaded dataset onto Notebook instance memory from S3, pre-processed the dataset, create-train-deployed the model in Sagemaker
 - Created Lambda function and called invokeEndpoint() method for real time predications/inferences.
